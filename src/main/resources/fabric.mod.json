@@ -11,11 +11,6 @@
   "license": "All-Rights-Reserved",
   "icon": "assets/totempopshower/icon.png",
   "environment": "*",
-  "entrypoints": {
-    "*": [
-      "com.winapiadmin.totempopshower.Main"
-    ]
-  },
   "mixins": [
     "totempopshower.mixins.json"
   ],
